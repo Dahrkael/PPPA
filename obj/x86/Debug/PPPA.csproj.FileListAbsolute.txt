@@ -1,0 +1,14 @@
+E:\programacion\pppa\PPPA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\programacion\pppa\PPPA\bin\Debug\PPPA.exe
+E:\programacion\pppa\PPPA\bin\Debug\PPPA.pdb
+E:\programacion\pppa\PPPA\bin\Debug\Hid.Linux.dll
+E:\programacion\pppa\PPPA\bin\Debug\Hid.Net+.dll
+E:\programacion\pppa\PPPA\bin\Debug\Hid.Win32.dll
+E:\programacion\pppa\PPPA\obj\x86\Debug\PPPA.exe
+E:\programacion\pppa\PPPA\obj\x86\Debug\PPPA.pdb
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\obj\x86\Debug\PPPA.exe
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\obj\x86\Debug\PPPA.pdb
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\bin\Debug\PPPA.exe.config
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\bin\Debug\PPPA.exe
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\bin\Debug\PPPA.pdb
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\obj\x86\Debug\ResolveAssemblyReference.cache

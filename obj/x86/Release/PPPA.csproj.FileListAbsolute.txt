@@ -1,0 +1,10 @@
+E:\programacion\pppa\PPPA\bin\Release\PPPA.exe
+E:\programacion\pppa\PPPA\bin\Release\Hid.Linux.dll
+E:\programacion\pppa\PPPA\bin\Release\Hid.Net+.dll
+E:\programacion\pppa\PPPA\bin\Release\Hid.Win32.dll
+E:\programacion\pppa\PPPA\obj\x86\Release\ResolveAssemblyReference.cache
+E:\programacion\pppa\PPPA\obj\x86\Release\PPPA.exe
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\bin\Release\PPPA.exe.config
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\obj\x86\Release\PPPA.exe
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\bin\Release\PPPA.exe
+C:\Documents and Settings\Santiago\Escritorio\Mis Documentos\Programacion\PPPA\obj\x86\Release\ResolveAssemblyReference.cache

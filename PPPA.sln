@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.0.5777
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPPA", "PPPA.csproj", "{C5660E53-3A03-40C0-8584-B031CF6B4CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5660E53-3A03-40C0-8584-B031CF6B4CF5}.Debug|x86.Build.0 = Debug|x86
+		{C5660E53-3A03-40C0-8584-B031CF6B4CF5}.Debug|x86.ActiveCfg = Debug|x86
+		{C5660E53-3A03-40C0-8584-B031CF6B4CF5}.Release|x86.Build.0 = Release|x86
+		{C5660E53-3A03-40C0-8584-B031CF6B4CF5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
